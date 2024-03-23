@@ -14,4 +14,14 @@ body {
   .task-card:hover {
     cursor: grab;
   }
+  .todo {
+    background-color: rgb(220, 135, 135); /* Yellow */
+  }
   
+  .in-progress {
+    background-color: yellow; /* Blue */
+  }
+  
+  .done {
+    background-color: #28a745; /* Green */
+  }
