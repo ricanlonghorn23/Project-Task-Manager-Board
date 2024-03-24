@@ -14,14 +14,18 @@ body {
   .task-card:hover {
     cursor: grab;
   }
-  .todo {
-    background-color: rgb(220, 135, 135); /* Yellow */
-  }
+  .past-due-header {
+    background-color: red;
+    color: Black;
+   
+}
   
-  .in-progress {
-    background-color: yellow; /* Blue */
-  }
-  
-  .done {
-    background-color: #28a745; /* Green */
-  }
+.past-due-card {
+  background-color: red;
+  color: Black; 
+  font-weight: bold;
+}
+.due-today {
+  background-color: yellow;
+  font-weight: bold;
+}
