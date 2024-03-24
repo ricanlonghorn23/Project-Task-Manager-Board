@@ -1,6 +1,6 @@
-# Luis's Project Task Manager Board (Module 05 Third Party APIs Challenge ) 
+# Luis's Personal Task Manager Board (Module 05 Third Party APIs Challenge ) 
 
-## This Challenge contains my personal Task Manager Board to include the following functions:
+## This Challenge contains my Personal Task Manager Board to include the following functions:
 - Allows for wesbite visitor to enter a task title, due date, and task description.
 - Once you hit the add task button, the website visitors will be added to the To-do List lane.
 - The user will be free to move tasks to the in prgress lane and done lane as they complete their listed tasks.
@@ -8,8 +8,8 @@
 
 
 ## Installation
-- To access my personal blog website follow link: https://ricanlonghorn23.github.io/Project-Task-Manager-Board/
-- To Access my personal blog website repository: https://github.com/ricanlonghorn23/Project-Task-Manager-Board.git
+- To access my personal task manager board website follow link: https://ricanlonghorn23.github.io/Project-Task-Manager-Board/
+- To Access my personal task manager board website repository: https://github.com/ricanlonghorn23/Project-Task-Manager-Board.git
 
 
 
